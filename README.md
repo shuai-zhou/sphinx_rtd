@@ -1,2 +1,2 @@
-# sphinx_rtd
-This is a repo to test building Sphinx Read the Docs
+# GPS2space_doc
+GitHub Repository for GPS2space documentation.
